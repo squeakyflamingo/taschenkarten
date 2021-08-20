@@ -6,15 +6,23 @@ Ich bin Sanitäter und Führungskraft (low-level :D) im Wasserrettungsdienst ein
 ## Inhalte
 Aktuell habe ich mir die Taschenkarten in folgende Bereich organisiert:
 * Medizin (grün)
-  * Diverse Schemata und Hilfestellungen.
-* Führung (blau, _Coming soon!_)
-  * Führungsabläufe, Schemata, etc.
-* Weiteres für den Einsatz (rot, _Coming soon!_)
-  * Unter andere: Funkalphabet
+  * Schemata und Hilfestellungen.
+* Führung (blau)
+  * Führungsabläufe, Schemata, ...
+* Weiteres für den Einsatz (rot)
+  * Unter anderem: Funkalphabet, Einsatztaktik im WRD, ...
 
 (Coming soon bedeutet, dass ich meine Taschenkarten von allen Organisationskennzeichen befreien muss.)
 
-**Die Inhalte werden nach meiner Lust und Laune ergänzt oder verändert.** Ich werde versuchen mich an das Inkrementieren der Versionsnummer am Fuß der Karten zu erinnern. Die Startversion ist 2.0, da 1.x für meine bisherigen Karten draufgeht und cih einen Neuanfang mache.
+### Quellen
+Ich habe diverse Dinge als Vorlage benutzt. Die folgende Liste ist nicht erschöpfend.
+* Diverse Ausbildungsunterlagen (Sanitäter, Führungslehre, ...)
+* Blog [lageaufsicht.de](https://lageaufsicht.de)
+* Blog [dierettungsaffen.com](https://dierettungsaffen.com)
+* Blog [notfallmedizin.blog](https://notfallmedizin.blog)
+* Medizinische Handlungsanweisungen der Berliner Feuerwehr. [Mediathek](https://www.berliner-feuerwehr.de/service/mediathek/fachthemen/). [PDF-File, 4. Auflage](https://www.berliner-feuerwehr.de/fileadmin/bfw/dokumente/Publikationen/Rettungsdienst/Medizinische_Handlungsanweisungen_Berliner_Notfallrettung__06_2021.pdf).
+
+**Die Inhalte werden nach meiner Lust und Laune ergänzt oder verändert.** Ich werde versuchen mich an das Inkrementieren der Versionsnummer am Fuß der Karten zu erinnern. Die Startversion ist 2.0, da 1.x für meine bisherigen Karten draufgeht und ich einen Neuanfang mache.
 
 ## Technisches
 Ich erstelle meine Karten, ob der Zugänglichkeit, in PowerPoint. Damit sollte sie hoffentlich fast jeder selbst überarbeiten können (s. Lizenz). Aus PowerPoint exportiere ich PDF-Dateien. Diese beiden Dateitypen liegen hier im Repo, die PowerPoint-Files dabei im Ordner "pptx".
@@ -27,7 +35,7 @@ Das technische Format ist Visitenkartengröße (85mm x 55mm). Aufgrund des Erste
 * Karten mit einer Schneidemaschine/Hebelschere ausschneiden.
 * Immer zwei Karten mit den Rückseiten zusammenfügen, damit ich doppelseitige Karten habe. (Ich nutze immer ein bisschen Klebstoff, damit es hält.)
 * Jetzt kann man die Ecken abrunden, dafür gibt es eigene Werkzeuge.
-* Laminieren, ich habe dafür extra Laminierhüllen für Visitenkarten. 
+* Laminieren, ich habe dafür extra Laminierhüllen für Visitenkarten.
 
 Durch die Doppellage Papier und die Laminierfolie sind die fertigen Karten recht stabil. Und praktischerweise auch wasserfest!
 
